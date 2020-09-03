@@ -1,0 +1,6 @@
+rootProject.name='Eric'
+include ':app'
+include ':JavaLib'
+include ':Asm'
+include ':asm_lifecycle_plugin'
+include ':DexClassLoaderHotFix'
